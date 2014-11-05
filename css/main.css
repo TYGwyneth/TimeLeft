@@ -434,6 +434,10 @@ input[type='radio']:hover {
         font-size: 0.7em;
     }
 
+    button {
+        max-width: 60px;
+    }
+
     #infoWrap #infoBox input[type=text] {
         max-width: 30px;
     }
