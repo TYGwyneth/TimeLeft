@@ -431,7 +431,7 @@ input[type='radio']:hover {
 @media screen and (max-device-width: 480px) {
 
     html {
-
+        font-size: 0.7em;
     }
 
     #infoWrap #infoBox input[type=text] {
