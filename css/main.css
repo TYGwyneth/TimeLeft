@@ -444,7 +444,7 @@ input[type='radio']:hover {
     }
 
     #infoWrap #infoBox select {
-        max-width: 140px;
+        max-width: 160px;
     }
 
     label:after {
