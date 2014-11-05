@@ -219,12 +219,12 @@ input[type='radio']:hover {
 }
 
 #infoWrap #infoBox input[type=text] {
-    width: 65px;
+    max-width: 65px;
     text-align: center;
 }
 
 #infoWrap #infoBox select {
-    width: 265px;
+    max-width: 265px;
     margin: 8px 0px 5px 0px;
 }
 
