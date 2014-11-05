@@ -418,6 +418,9 @@ input[type='radio']:hover {
 
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
+    html {
+        font-size: 0.5em;
+    }
 }
 
 @media print,
