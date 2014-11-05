@@ -15,7 +15,7 @@ button,
 input,
 select,
 textarea {
-    font-family: "MSX Font", monospace, sans serif;
+    font-family: "msx_fontmedium", monospace, sans serif;
     color: white;
 }
 
@@ -165,7 +165,7 @@ select {
 label {position:relative;}
 label:after {
     content:'<>';
-    font:11px "MSX Font", monospace;
+    font:11px "msx_fontmedium", monospace;
     color: white;
     -webkit-transform:rotate(90deg);
     -moz-transform:rotate(90deg);
