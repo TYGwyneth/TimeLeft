@@ -418,9 +418,7 @@ input[type='radio']:hover {
 
 @media only screen and (min-width: 35em) {
     /* Style adjustments for viewports that meet the condition */
-    html {
-        font-size: 0.5em;
-    }
+   
 }
 
 @media print,
@@ -428,6 +426,14 @@ input[type='radio']:hover {
        (-webkit-min-device-pixel-ratio: 1.25),
        (min-resolution: 120dpi) {
     /* Style adjustments for high resolution devices */
+}
+
+@media screen and (max-device-width: 480px) {
+
+    html {
+        font-size: 0.5em;
+    }
+
 }
 
 /* ==========================================================================
