@@ -439,16 +439,28 @@ input[type='radio']:hover {
         padding: 4px;
     }
 
+    #spinnerWrap {
+        top: 26%;
+    }
+
+    #infoWrap {
+        top: 25%;
+    }
+
     #infoWrap #infoBox input[type=text] {
         max-width: 30px;
     }
 
     #infoWrap #infoBox select {
-        max-width: 160px;
+        max-width: 165px;
     }
 
     label:after {
         right:15px; top:0px;
+    }
+
+    #infoWrap #resultWrap h1 {
+        font-size: 1.5em;
     }
 
 }
