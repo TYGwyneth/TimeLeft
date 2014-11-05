@@ -436,6 +436,7 @@ input[type='radio']:hover {
 
     button {
         max-width: 110px;
+        padding: 1px;
     }
 
     #infoWrap #infoBox input[type=text] {
